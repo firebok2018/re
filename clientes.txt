@@ -1,0 +1,6 @@
+300,Exotic Liquids, 49 Gliberts St.,Charlotte Cooper,Gerente de compras,003,555-2222
+301,New Orleans Cajun Delights, P.O. Box 78934,Shelley Burke,Administrador de pedidos,008,555-4822
+302,Grandma Kelleys Homestead,707 Oxfors Rd., Regina Murphy,Representante de ventas,001,555-5735,555-3349
+303,Tokyo traders,Sekima\r\nMusashi no-shi, Yoshi Nagase,Gerente de marketing,007,3555-5011
+304,Cooperativa de quesos las Cabras,Calle del rosal 4, Antonio del valle saavedra,Administrador de exportaciones,007,598-7654
+305,Mayumis,92Setsuko\r\nChuoku,Mayumi Ohno,Representante de marketing,004,431-7877
